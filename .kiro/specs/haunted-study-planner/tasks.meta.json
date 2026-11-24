@@ -1,0 +1,170 @@
+{
+  "pbtResults": {},
+  "executionHistory": {
+    "1. Scaffold project, tooling, and shared types": [
+      {
+        "executionId": "d46cd5b2-e1d0-47c2-a6aa-8e37e0421141",
+        "chatSessionId": "sess_29c35b12-2db1-4046-86d9-fde0a9b885fc",
+        "timestamp": 1795508482824
+      },
+      {
+        "executionId": "d46cd5b2-e1d0-47c2-a6aa-8e37e0421141",
+        "chatSessionId": "sess_29c35b12-2db1-4046-86d9-fde0a9b885fc",
+        "timestamp": 1795510223106
+      }
+    ],
+    "1.1 Initialize the Vite + React + TypeScript project and install dev dependencies": [
+      {
+        "executionId": "d46cd5b2-e1d0-47c2-a6aa-8e37e0421141",
+        "chatSessionId": "sess_29c35b12-2db1-4046-86d9-fde0a9b885fc",
+        "timestamp": 1795510256931
+      }
+    ],
+    "1.2 Configure Vitest (jsdom) and Vite static build, and create the directory structure": [
+      {
+        "executionId": "d46cd5b2-e1d0-47c2-a6aa-8e37e0421141",
+        "chatSessionId": "sess_29c35b12-2db1-4046-86d9-fde0a9b885fc",
+        "timestamp": 1795510270253
+      }
+    ],
+    "1.3 Define shared TypeScript types and constants": [
+      {
+        "executionId": "d46cd5b2-e1d0-47c2-a6aa-8e37e0421141",
+        "chatSessionId": "sess_29c35b12-2db1-4046-86d9-fde0a9b885fc",
+        "timestamp": 1795510270538
+      }
+    ],
+    "2.1 Implement `priority.ts`": [
+      {
+        "executionId": "205c7dd1-7343-46d1-b5a8-0e1edd49ac10",
+        "chatSessionId": "sess_438dc40d-db0d-4578-9528-06adb67db14b",
+        "timestamp": 1795510458472
+      },
+      {
+        "executionId": "f6a8b48a-43ee-4b60-9bbc-b3f4042b138e",
+        "chatSessionId": "sess_ff12527b-960b-4a4f-adb4-4de22471dae8",
+        "timestamp": 1795511124528
+      },
+      {
+        "executionId": "f6a8b48a-43ee-4b60-9bbc-b3f4042b138e",
+        "chatSessionId": "sess_ff12527b-960b-4a4f-adb4-4de22471dae8",
+        "timestamp": 1795511728749
+      }
+    ],
+    "2.2 Implement `dateUtils.ts`": [
+      {
+        "executionId": "205c7dd1-7343-46d1-b5a8-0e1edd49ac10",
+        "chatSessionId": "sess_438dc40d-db0d-4578-9528-06adb67db14b",
+        "timestamp": 1795510458861
+      },
+      {
+        "executionId": "f6a8b48a-43ee-4b60-9bbc-b3f4042b138e",
+        "chatSessionId": "sess_ff12527b-960b-4a4f-adb4-4de22471dae8",
+        "timestamp": 1795511124755
+      },
+      {
+        "executionId": "f6a8b48a-43ee-4b60-9bbc-b3f4042b138e",
+        "chatSessionId": "sess_ff12527b-960b-4a4f-adb4-4de22471dae8",
+        "timestamp": 1795511729532
+      }
+    ],
+    "2.5 Implement `assignment.ts`": [
+      {
+        "executionId": "205c7dd1-7343-46d1-b5a8-0e1edd49ac10",
+        "chatSessionId": "sess_438dc40d-db0d-4578-9528-06adb67db14b",
+        "timestamp": 1795510459140
+      },
+      {
+        "executionId": "f6a8b48a-43ee-4b60-9bbc-b3f4042b138e",
+        "chatSessionId": "sess_ff12527b-960b-4a4f-adb4-4de22471dae8",
+        "timestamp": 1795511125238
+      },
+      {
+        "executionId": "f6a8b48a-43ee-4b60-9bbc-b3f4042b138e",
+        "chatSessionId": "sess_ff12527b-960b-4a4f-adb4-4de22471dae8",
+        "timestamp": 1795511821488
+      }
+    ],
+    "2.7 Implement `storage.ts`": [
+      {
+        "executionId": "205c7dd1-7343-46d1-b5a8-0e1edd49ac10",
+        "chatSessionId": "sess_438dc40d-db0d-4578-9528-06adb67db14b",
+        "timestamp": 1795510459412
+      },
+      {
+        "executionId": "f6a8b48a-43ee-4b60-9bbc-b3f4042b138e",
+        "chatSessionId": "sess_ff12527b-960b-4a4f-adb4-4de22471dae8",
+        "timestamp": 1795511125508
+      },
+      {
+        "executionId": "f6a8b48a-43ee-4b60-9bbc-b3f4042b138e",
+        "chatSessionId": "sess_ff12527b-960b-4a4f-adb4-4de22471dae8",
+        "timestamp": 1795511821806
+      }
+    ],
+    "2.3 Implement `countdown.ts`": [
+      {
+        "executionId": "f6a8b48a-43ee-4b60-9bbc-b3f4042b138e",
+        "chatSessionId": "sess_ff12527b-960b-4a4f-adb4-4de22471dae8",
+        "timestamp": 1795511124912
+      },
+      {
+        "executionId": "f6a8b48a-43ee-4b60-9bbc-b3f4042b138e",
+        "chatSessionId": "sess_ff12527b-960b-4a4f-adb4-4de22471dae8",
+        "timestamp": 1795511729882
+      }
+    ],
+    "2.4 Implement `restless.ts`": [
+      {
+        "executionId": "f6a8b48a-43ee-4b60-9bbc-b3f4042b138e",
+        "chatSessionId": "sess_ff12527b-960b-4a4f-adb4-4de22471dae8",
+        "timestamp": 1795511125070
+      },
+      {
+        "executionId": "f6a8b48a-43ee-4b60-9bbc-b3f4042b138e",
+        "chatSessionId": "sess_ff12527b-960b-4a4f-adb4-4de22471dae8",
+        "timestamp": 1795511730183
+      }
+    ],
+    "2.6 Implement `dashboard.ts`": [
+      {
+        "executionId": "f6a8b48a-43ee-4b60-9bbc-b3f4042b138e",
+        "chatSessionId": "sess_ff12527b-960b-4a4f-adb4-4de22471dae8",
+        "timestamp": 1795511125371
+      },
+      {
+        "executionId": "f6a8b48a-43ee-4b60-9bbc-b3f4042b138e",
+        "chatSessionId": "sess_ff12527b-960b-4a4f-adb4-4de22471dae8",
+        "timestamp": 1795511730441
+      }
+    ],
+    "2. Implement the pure domain layer (PBT target)": [
+      {
+        "executionId": "f6a8b48a-43ee-4b60-9bbc-b3f4042b138e",
+        "chatSessionId": "sess_ff12527b-960b-4a4f-adb4-4de22471dae8",
+        "timestamp": 1795511822104
+      }
+    ],
+    "3.5 Property test: Future-day countdown day count matches an independent day counter": [
+      {
+        "executionId": "c96c1cc1-fd50-46be-af8a-a916eff4dde2",
+        "chatSessionId": "sess_e29d460e-af75-412a-8788-c7c076222627",
+        "timestamp": 1795511889830
+      }
+    ],
+    "3.7 Property test: Restless classification is exactly \"due date is in the past\"": [
+      {
+        "executionId": "c96c1cc1-fd50-46be-af8a-a916eff4dde2",
+        "chatSessionId": "sess_e29d460e-af75-412a-8788-c7c076222627",
+        "timestamp": 1795511890123
+      }
+    ],
+    "3.11 Property test: Serialization round-trips the collection": [
+      {
+        "executionId": "c96c1cc1-fd50-46be-af8a-a916eff4dde2",
+        "chatSessionId": "sess_e29d460e-af75-412a-8788-c7c076222627",
+        "timestamp": 1795511890369
+      }
+    ]
+  }
+}
